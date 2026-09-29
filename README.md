@@ -4,7 +4,7 @@ Submitted by: **Caleb Harris**
 
 **Popular Actors Browser** is an Android application that fetches and displays popular actors and media personalities from The Movie Database (TMDB) API, and provides a multi-screen detail page experience using Intents.
 
-Time spent: **3** hours spent in total
+Time spent: **10** hours spent in total
 
 ## User Stories
 
