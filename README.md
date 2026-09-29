@@ -34,9 +34,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+https://drive.google.com/file/d/1oftCmfhQdl9YWjse0FObnsRF1jo3CV0z/view?usp=sharing
 
-*(Add your GIF / screen recording link here)*
+
+## Gif Video
+<img src="demo4.gif" width="300">
 
 ## Notes
 
